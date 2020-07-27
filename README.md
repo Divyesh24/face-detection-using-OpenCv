@@ -11,7 +11,7 @@ The objective of the program given is to detect object of interest(face) in real
   work for you<br>
 - Since face detection is such a common case, OpenCV comes with a number of built-in cascades for detecting everything from faces to eyes to hands to legs.<br>
 
-<h6>Steps for implementation :</h6><br>
+<h6>Steps for implementation :</h6>
  -Install requirements<br>
  -click your picture from various angles with good quality.<br>
  -put those pictures into a folder named your-name.<br>
