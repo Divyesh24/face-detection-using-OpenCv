@@ -1,6 +1,8 @@
 # face-detection-using-OpenCV
 
-The objective of the program given is to detect object of interest(face) in real time and to keep tracking of the same object with label.
+The objective of the program given is to detect object of interest(face) in real time and to keep tracking of the same object with label using mobile camera.
+
+<h4>Note: Please download android mobile app named IP Webcam. Then set your IP address shown in app to URL variable section</h4>
 
 ## OpenCV
 
